@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.5",
-    "@fontsource/montserrat": "^5.0.16",
     "@react-three/drei": "^9.96.5",
     "@react-three/fiber": "^8.15.15",
     "framer-motion": "^11.0.3",
+    "i": "^0.3.7",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
