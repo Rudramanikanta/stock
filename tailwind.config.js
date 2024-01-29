@@ -1,5 +1,4 @@
 /** @type {import('tailwindcss').Config} */
-import "@fontsource/montserrat";
 module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
